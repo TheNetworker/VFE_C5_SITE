@@ -1,1 +1,4 @@
 {{initial_config}}
+
+
+{{L2VPN_CONFIG}}
