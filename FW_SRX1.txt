@@ -1,3 +1,5 @@
 {{initial_config}}
 
 {{L2VPN_CONFIG_FW1}}
+
+{{L2VPN_CONFIG_FW2}}
